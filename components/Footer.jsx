@@ -24,7 +24,7 @@ export default function Footer() {
             <ul className="flex space-x-4">
               <li>
                 <Link
-                  href="/about"
+                  href="#"
                   className="hover:text-gray-500 transition-colors"
                 >
                   About
@@ -32,7 +32,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/services"
+                  href="#"
                   className="hover:text-gray-500 transition-colors"
                 >
                   Services
@@ -40,7 +40,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/contact"
+                  href="#"
                   className="hover:text-gray-500 transition-colors"
                 >
                   Contact
@@ -48,7 +48,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/privacy"
+                  href="#"
                   className="hover:text-gray-500 transition-colors"
                 >
                   Privacy Policy
@@ -58,7 +58,7 @@ export default function Footer() {
           </nav>
           <div className="flex space-x-4">
             <a
-              href="https://facebook.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-500 transition-colors"
@@ -67,7 +67,7 @@ export default function Footer() {
               <span className="sr-only">Facebook</span>
             </a>
             <a
-              href="https://twitter.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-500 transition-colors"
@@ -76,7 +76,7 @@ export default function Footer() {
               <span className="sr-only">Twitter</span>
             </a>
             <a
-              href="https://instagram.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-500 transition-colors"
@@ -85,7 +85,7 @@ export default function Footer() {
               <span className="sr-only">Instagram</span>
             </a>
             <a
-              href="https://github.com"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-500 transition-colors"

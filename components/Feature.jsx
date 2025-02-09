@@ -15,48 +15,48 @@ import { motion } from 'framer-motion';
 export function FeaturesSectionDemo() {
   const features = [
     {
-      title: 'Built for developers',
+      title: 'Learning Solutions',
       description:
-        'Built for engineers, developers, dreamers, thinkers and doers.',
+        'Upskill for Success',
       icon: <IconTerminal2 />,
     },
     {
-      title: 'Ease of use',
+      title: 'Certification Programs',
       description:
-        "It's as easy as using an Apple, and as expensive as buying one.",
+        "Validate Expertise",
       icon: <IconEaseInOut />,
     },
     {
-      title: 'Pricing like no other',
+      title: 'Software Development',
       description:
-        'Our prices are best in the market. No cap, no lock, no credit card required.',
+        'Innovate & Automate',
       icon: <IconCurrencyDollar />,
     },
     {
-      title: '100% Uptime guarantee',
-      description: 'We just cannot be taken down by anyone.',
+      title: 'Website Services',
+      description: 'Boost Digital Presence',
       icon: <IconCloud />,
     },
     {
-      title: 'Multi-tenant Architecture',
-      description: 'You can simply share passwords instead of buying new seats',
+      title: 'Digital Marketing',
+      description: 'Grow Your Reach',
       icon: <IconRouteAltLeft />,
     },
     {
-      title: '24/7 Customer Support',
+      title: 'SEO & SEM',
       description:
-        'We are available a 100% of the time. Atleast our AI Agents are.',
+        'Enhance Visibility',
       icon: <IconHelp />,
     },
     {
-      title: 'Money back guarantee',
+      title: 'Social Media',
       description:
-        'If you donot like EveryAI, we will convince you to like us.',
+        'Engage Audiences',
       icon: <IconAdjustmentsBolt />,
     },
     {
-      title: 'And everything else',
-      description: 'I just ran out of copy ideas. Accept my sincere apologies',
+      title: 'Analytics & Insights',
+      description: 'Drive Data-Driven Decisions',
       icon: <IconHeart />,
     },
   ];
@@ -68,7 +68,7 @@ export function FeaturesSectionDemo() {
                whileInView='visible'
         className='w-fit bg-[#100e18]  py-1 text-white/50 text-sm rounded-md flex justify-center items-center gap-1 px-2 mx-auto border border-white/10 mb-4'
       >
-        <p>Benefits</p>
+        <p>Our expertise</p>
       </motion.div>
 
       <motion.div
