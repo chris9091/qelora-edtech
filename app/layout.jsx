@@ -3,13 +3,13 @@ import Navbar from '@components/Navbar';
 
 export const metadata = {
   metadataBase: new URL('https://qeloraedtech.com'),
-  title: 'Qelora Edtech',
+  title: 'Qelora Edtech LLP - Transforming Learning',
   description:
     'Empowering learners and businesses with cutting-edge educational solutions, courses, and technology services. Join us to unlock your true potential.',
-  authors: [{ name: 'Qelora Edtech' }],
+  authors: [{ name: 'Qelora Edtech LLP' }],
   openGraph: {
-    siteName: 'Qelora Edtech',
-    title: 'Qelora Edtech - Transforming Learning',
+    siteName: 'Qelora Edtech LLP',
+    title: 'Qelora Edtech LLP - Transforming Learning',
     type: 'website',
     images: [
       {
